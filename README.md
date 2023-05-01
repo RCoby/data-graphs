@@ -16,8 +16,3 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 + scatter plot
 + correlation and regression
 -----
-
-### The analysis includes the following: 
-+ 
-
------
