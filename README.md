@@ -1,6 +1,6 @@
 # data-graphs
 
-## Capomulin Performance, against the other treatment regimens
+## Capomulin Performance, against other treatment regimens
 
 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. 
 Over the course of 45 days, tumor development was observed and measured. 
